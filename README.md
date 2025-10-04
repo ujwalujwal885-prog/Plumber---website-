@@ -89,16 +89,15 @@
     <li>Bathroom & Kitchen Fittings</li>
     <li>Leakage & Pipe Repairs</li>
     <li>Geyser & Water Heater Installation</li>
-    <li>Full House Plumbing Setup</li>
-    <li>24/7 Emergency Support</li>
+    <li>Full House Plumbing Setup</li
   </ul>
 </section>
 
 <section id="contact" class="contact">
   <h2>Contact Us</h2>
-  <p>📍 Location: [Your City / Area]</p>
-  <p>📱 Phone: +91-[Your Number]</p>
-  <p>📧 Email: [Your Email]</p>
+  <p>📍 Location: [Baijnath/ mahakal]</p>
+  <p>📱 Phone: +91-[8219985536]</p>
+  <p>📧 Email: [ujwalujwal885@gmail.com]</p>
   <button onclick="window.location.href='tel:+91YOURNUMBER'">Call Now</button>
 </section>
 
